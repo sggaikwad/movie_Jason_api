@@ -1,7 +1,6 @@
 [
   {
     "id": "1",
-
     "Name": "Fast X",
     "Language": "English",
     "Category": "comedy",
@@ -9,15 +8,12 @@
   },
   {
     "id": "2",
-
     "Name": "IB71",
     "Language": "Hindi",
-
     "About": "IB71, a patriotic spy thriller, is an untold story based on true events where IB agent Dev Jammwal (Vidyut Jammwal) is on a top secret mission to save the nation."
   },
   {
     "id": "3",
-
     "Name": "Guardians of the Galaxy Vol. 3",
     "Language": "English",
     "Category": "Horror",
@@ -25,15 +21,12 @@
   },
   {
     "id": "4",
-
     "Name": "Chatrapathi",
-
     "Language": "Hindi",
     "About": "Chatrapathi` is the story of Shiva. He becomes a hero by standing up to Bhairu Solanki and helping his fellow villagers. his step-brother Ashok and Bhavani Solanki plot against him. "
   },
   {
     "id": "5",
-
     "Name": "Kisi Ka Bhai Kisi Ki Jaan",
     "Category": "comedy",
     "Language": "Hindi",
@@ -41,15 +34,12 @@
   },
   {
     "id": "6",
-
     "Name": "Ponniyin Selvan - Part 2",
     "Language": "Telagu",
-
     "About": "A plot to murder the king and the two princes of the Chola dynasty is underfoot. Can the Cholas survive the wrath of the Pandiya rebels, who are being led by the vengeful Nandhini?"
   },
   {
     "id": "7",
-
     "Name": "M.S. Dhoni: The Untold Story",
     "Category": "comedy",
     "Language": "Hindi",
@@ -57,15 +47,12 @@
   },
   {
     "id": "8",
-
     "Name": "Tu Jhoothi Main Makkaar",
     "Language": "Hindi",
-
     "About": "Madness ensues when a `player` in the world of romantic relationships finds a girl who`s a worthy opponent. Tu Jhoothi Main Makkaar is a film that believes love is a battle of wits."
   },
   {
     "id": "9",
-
     "Name": "The Kerala Story",
     "Language": "Hindi",
     "Category": "Action",
@@ -73,15 +60,12 @@
   },
   {
     "id": "10",
-
     "Name": "Mrs. Chatterjee Vs Norway",
     "Language": "Hindi",
-
     "About": "Mrs. Chatterjee`s fight against an entire nation to reunite with her children is now Desh Ka Matter."
   },
   {
     "id": "11",
-
     "Name": "Fast & Furious 7",
     "Language": "English",
     "Category": "Action",
@@ -89,179 +73,150 @@
   },
   {
     "id": "12",
-
     "Name": "2018",
     "Language": "Kannad",
-
     "About": "A thriller set in the backdrop of 2018 Kerala Floods. It unfolds the lives of people from all walks of life who faced catastrophic consequences and the collective efforts put in by the brave people to survive the calamity."
   },
   {
     "id": "13",
-
     "Name": "Evil Dead Rise",
     "Language": "English",
     "About": "Moving the action out of the woods and into the city, Evil Dead Rise tells a twisted tale of two estranged sisters."
   },
   {
     "id": "14",
-
     "Name": "Custody",
     "Language": "Hindi",
     "About": "Custody is a bilingual movie starring Naga Chaitanya Akkineni and Krithi Shetty in the lead."
   },
   {
     "id": "15",
-
     "Name": "Fast and Furious 9",
     "Language": "English",
-
     "About": "Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him."
   },
   {
     "id": "16",
-
     "Name": "The Battle of Bhima Koregaon",
     "Language": "Marathi",
     "About": "The movie is based on the Battle of Bhima Koregaon which was fought on 1 January 1818 between the British East India Company and the Peshwa faction of the Maratha Confederacy, at Koregaon Bhima..."
   },
   {
     "id": "17",
-
     "Name": "Baloch",
     "Language": "Marathi",
-
     "About": "A historical drama featuring Pravin Tarde in a prominent role. It is written and directed by Prakash Janardan Pawar."
   },
   {
     "id": "18",
-
     "Name": "The Lord of the Rings",
     "Language": "English",
     "About": "The young hobbit Frodo takes his final steps to the top of the fortified Mount Doom to destroy the fateful ring and with it"
   },
   {
     "id": "19",
-
     "Name": "Jodi",
     "Language": "Hindi",
     "About": "Set in the backdrop of Punjab in the 1980s. With their love growing stronger, a shroud of mystery envelopes their path."
   },
   {
     "id": "20",
-
     "Name": "DC League of Super-Pets",
     "Language": "English",
-
     "About": "When Superman goes missing, it`s up to his partner-in-crime, his dog Krypto (Dwayne Johnson), to mount a rescue with other super pets."
   },
   {
     "id": "21",
-
     "Name": "Pachuvum Athbutha Vilakkum",
     "Language": "Kannad",
     "About": "A Mumbai-based middle-class Malayali travels to Kerala for an errand. The trip sets off a series of events that changes the course of his life."
   },
   {
     "id": "22",
-
     "Name": "Sisu",
     "Language": "Telagu",
     "About": "During the last days of World War II. When the soldiers decide to steal his gold, they quickly discover they tangled with no ordinary miner."
   },
   {
     "id": "23",
-
     "Name": "The Fate Of The Furious",
     "Language": "English",
     "About": "Cipher, a notorious international cybercriminal, uses Dominic`s little known secret as leverage to force him to join her for a mission to start a global nuclear war."
   },
   {
     "id": "24",
-
     "Name": "Suzume",
     "Language": "English",
     "About": "A 17-year-old girl named Suzume helps a mysterious young man close doors from the outer side that are releasing disasters all over in Japan."
   },
   {
     "id": "25",
-
     "Name": "Anni Manchi Sakunamule",
     "Language": "Telagu",
     "About": "Anni Manchi Sakunamule is a Telugu movie starring Santosh Sobhan and Malvika Nair in prominent roles. It is directed by Nandini Reddy forming part of the crew. "
   },
   {
     "id": "26",
-
     "Name": "Simhadri",
     "Language": "Telagu",
     "About": "Samrat is adopted by the Varmas who raise him as their own and the patriarch`s granddaughter falls in love with him. However, he leaves her to be with a girl who is mentally unstable. "
   },
   {
     "id": "27",
-
     "Name": "Right",
     "Language": "Telagu",
     "About": "A police officer's wife and beloved daughter were murdered in front of his eyes, and as a result, he became an alcoholic. The Joint Commissioner supervisor requests him to proceed with an investigation in a disappearance case. Can he find out the killer? "
   },
   {
     "id": "28",
-
     "Name": "Charles Enterprises",
     "Language": "Kannad",
     "About": "Charles Enterprises is a fascinating depiction of how Ravi Kumaraswamy, a young man from Kochi suffering from night blindness, steals a Ganesha idol from his mother, Gomathi, a profound devotee. How will the situation turn out for him?"
   },
   {
     "id": "29",
-
     "Name": "Yaadhum Oore Yaavarum Kelir",
     "Language": "Tamil",
     "About": "Yaadhum Oore Yaavarum Kelir is a Tamil movie starring Megha Akash, Vijay Sethupathi, and Mohan Raja in prominent roles. It is a drama directed by Venkata Krishna Roghanth with Nivas Prasanna as a musician, forming part of the crew"
   },
   {
     "id": "30",
-
     "Name": "Por Thozhil",
     "Language": "Tamil",
     "About": "Por Thozhil is a Tamil movie starring Ashok Selvan, R. Sarathkumar and Nikhila Vimal in prominent roles. It is directed by Vignesh Raja. "
   },
   {
     "id": "31",
-
     "Name": "Maamannan",
     "Language": "Tamil",
     "About": "Maamannan is a Tamil movie starring Udhayanidhi Stalin, Vedivelu, Faadh Faasil and Keerthy Suresh in prominent roles. "
   },
   {
     "id": "32",
-
     "Name": "Transformers: Rise of the Beasts",
     "Language": "Tamil",
     "About": "Transformers: Rise of the Beasts will take audiences on a `90s globetrotting adventure and introduce the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons. "
   },
   {
     "id": "33",
-
     "Name": "The Forgotten Army - Azaadi Ke Liye",
     "Language": "Webseries",
     "About": "The Forgotten Army is a true epic war series about the Indian soldiers from the Azad Hind Fauj who marched 3,884 kms from Singapore to Delhi to free their country from the British. "
   },
   {
     "id": "34",
-
     "Name": "Modern Love Hyderabad",
     "Language": "Webseries",
     "About": "Modern Love Hyderabad is an Indian Telugu-language romantic anthology streaming television series produced by Elahe Hiptoola and directed by Nagesh Kukunoor ... "
   },
   {
     "id": "35",
-
     "Name": "Maharashtra Shahir",
     "Language": "Marathi",
     "About": "Maharashtra Shahir is about the life of one the most influential Marathi folk singer, writer, and theatre actor, Krushnarao Sable. With his songs."
   },
   {
     "id": "36",
-
     "Name": "Celebrating Golden Years of Golden Boy of Cricket",
     "Language": "English",
     "Category": "Sport",
@@ -269,7 +224,6 @@
   },
   {
     "id": "37",
-
     "Name": "All India Quick Chess Championship",
     "Language": "English",
     "Category": "Sport",
@@ -277,7 +231,6 @@
   },
   {
     "id": "38",
-
     "Name": "Monthly Sudoku Challenge by MALSAR",
     "Language": "English",
     "Category": "Sport",
@@ -285,7 +238,6 @@
   },
   {
     "id": "39",
-
     "Name": "Sobo Cycle Ride - LiveB4YouDie",
     "Language": "English",
     "Category": "Sport",
